@@ -1,0 +1,14 @@
+# Display settings
+SCREEN_WIDTH = 1920
+SCREEN_HEIGHT = 1080
+FPS = 60
+
+# Player settings
+PLAYER_SIZE = (128, 128)
+PLAYER_SPEED = 5
+PLAYER_JUMP_STRENGTH = 15
+GRAVITY = 0.8
+
+# Floor settings
+FLOOR_HEIGHT = 100
+FLOOR_SPEED = 5
